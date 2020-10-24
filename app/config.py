@@ -2,7 +2,8 @@ class Config:
     '''
     General configuration parent class
     '''
-    pass
+    #pass
+    NEWS_API_BASE_URL = 'https:api'
 
 
 
